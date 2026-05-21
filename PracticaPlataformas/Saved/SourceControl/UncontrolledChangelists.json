@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ericm/Downloads/PracticaPlataformas/PracticaPlataformas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JU/Z8H6ZTMYVJQLA42PUHX1TJ.uasset",
+				"C:/Users/ericm/Downloads/PracticaPlataformas/PracticaPlataformas/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/10/WVJAJ34XTJZXFD86VIOEKF.uasset",
+				"C:/Users/ericm/Downloads/PracticaPlataformas/PracticaPlataformas/Content/ThirdPerson/Blueprints/Platform.uasset"
+			]
+		}
+	]
+}
